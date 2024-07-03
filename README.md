@@ -50,8 +50,8 @@ If you have something that you think belongs here, feel free to reach out to us 
 
 #### 🛠 Components <a name="components-v3"></a>
 
-- [VAutocomplete-Infinite-Scroll-Single-Select](https://github.com/YoussefAMansour/VAutocomplete-Infinite-Scroll-Single-Select) - Vue 3 component for Vuetify 3 that enhances VAutocomplete with infinite scrolling (select2), designed for efficiently selecting item from dynamically loaded API datasets.
-- [VAutocomplete-Infinite-Scroll-Multi-Select](https://github.com/YoussefAMansour/VAutocomplete-Infinite-Scroll-Multi-Select) - Vue 3 component for Vuetify 3 that enhances VAutocomplete with infinite scrolling (select2), designed for efficiently selecting items from dynamically loaded API datasets.
+- [VAutocomplete-Infinite-Scroll-Single-Select2](https://github.com/YoussefAMansour/VAutocomplete-Infinite-Scroll-Single-Select) - Vue 3 component for Vuetify 3 that enhances VAutocomplete with infinite scrolling (select2), designed for efficiently selecting item from dynamically loaded API datasets.
+- [VAutocomplete-Infinite-Scroll-Multi-Select2](https://github.com/YoussefAMansour/VAutocomplete-Infinite-Scroll-Multi-Select) - Vue 3 component for Vuetify 3 that enhances VAutocomplete with infinite scrolling (select2), designed for efficiently selecting items from dynamically loaded API datasets.
 - [Dynamic-Number-Input-Fields](https://github.com/YoussefAMansour/Dynamic-Number-Input-Fields) - This repository features a Vue 3 component with Vuetify 3 for dynamically generating number input fields based on user input.
 - [vuetify-color-field](https://github.com/webdevnerdstuff/vuetify-color-field) - Vuetify Color Field is a Vuetify VTextField Color Picker Component
 - [vuetify-drilldown-table](https://github.com/webdevnerdstuff/vuetify-drilldown-table) - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format.
